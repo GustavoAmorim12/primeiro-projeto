@@ -53,3 +53,8 @@ button {
     background-color: rgb(55, 0, 255);
     color: white;
 }
+
+footer { 
+    border-top: 2px solid red;
+}
+
