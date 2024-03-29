@@ -44,3 +44,7 @@ nav {
     border-color: grey;
     padding: 10px;
 }
+
+p {
+    color: green;
+}
