@@ -48,3 +48,8 @@ nav {
 p {
     color: green;
 }
+
+button {
+    background-color: rgb(55, 0, 255);
+    color: white;
+}
